@@ -57,10 +57,6 @@ if($result->num_rows == 0){      #falls es keinen user gibt wird er zurück zur 
             <td> $row[5]</td>
         </tr>
         <tr>
-            <td>Passwort:</td>
-            <td> $row[6]</td>
-        </tr>
-        <tr>
             <td>Ort:</td>
             <td> $row[9]</td>
         </tr>
